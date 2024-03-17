@@ -174,22 +174,22 @@ params:
     image: illustrations/mockups/jardinage.jpeg
     buttonText: En savoir plus
     buttonLink: "#"
-  # section4:
-  #   title: Témoignages
-  #   subtitle: Ils nous font confiance!
-  #   clients:
-  #   - name: Marie Curie
-  #     quote: J'ai vraiment l'impression d'avoir un partenaire à mes côtés pour réaliser les tâches! Le résultat correspond à ce que je voulais! Je suis ravie d'avoir choisi Odyss.
-  #     job: Associations Tutélaire
-  #     img: 1
-  #   - name: Eric Dupont
-  #     quote: J'ai vraiment l'impression d'avoir un partenaire à mes côtés pour réaliser les tâches! Le résultat correspond à ce que je voulais! Je suis ravi d'avoir choisi Odyss.
-  #     job: MJPM Indépendant
-  #     img: 2
-  #   - name: David Vincent
-  #     quote: J'ai vraiment l'impression d'avoir un partenaire à mes côtés pour réaliser les tâches! Le résultat correspond à ce que je voulais! Je suis ravi d'avoir choisi Odyss.
-  #     job: Préposé établissement
-  #     img: 3
+  section4:
+    title: Témoignages
+    subtitle: Ils nous font confiance!
+    clients:
+    - name: Marie Curie
+      quote: J'ai vraiment l'impression d'avoir un partenaire à mes côtés pour réaliser les tâches! Le résultat correspond à ce que je voulais! Je suis ravie d'avoir choisi Odyss.
+      job: Associations Tutélaire
+      img: 1
+    - name: Eric Dupont
+      quote: J'ai vraiment l'impression d'avoir un partenaire à mes côtés pour réaliser les tâches! Le résultat correspond à ce que je voulais! Je suis ravi d'avoir choisi Odyss.
+      job: MJPM Indépendant
+      img: 2
+    - name: David Vincent
+      quote: J'ai vraiment l'impression d'avoir un partenaire à mes côtés pour réaliser les tâches! Le résultat correspond à ce que je voulais! Je suis ravi d'avoir choisi Odyss.
+      job: Préposé établissement
+      img: 3
   section5:
     title: Confiez-nous vos travaux
     subtitle: Demandez un devis!
